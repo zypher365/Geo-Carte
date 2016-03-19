@@ -1,0 +1,18 @@
+.container-fluid{
+	padding: 0 5% 0 5%;
+}
+.navbar-brand{
+}
+.service-box{
+	cursor: pointer;
+}
+
+#mydropdowns{
+	margin-top: 5%;
+}
+#mydropdowns>div>h3{
+	text-align: center;
+}
+#mydropdowns>div>p>img{
+	float: right;
+}
